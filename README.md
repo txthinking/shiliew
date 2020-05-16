@@ -6,7 +6,7 @@ An encrypted, undetectable, simple business proxy/VPN.</br>
 - We don't say 100% usable, but we also use it ourselves
 - We really don't limit speed, if you abuse we will cancel cooperation with you.
 
-This is CLI version of https://www.shiliew.com
+This is CLI version of https://www.shiliew.com, if you prefer GUI version, download from the website.
 
 ### Install via [nami](https://github.com/txthinking/nami)
 
